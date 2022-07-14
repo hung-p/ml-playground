@@ -1,4 +1,4 @@
-# This is my repo for learning and discovering Data Science, NLP and Machine Learning.
+# This is the repo for learning and discovering Data Science, NLP and Machine Learning.
 
 ## Audiobooks - Abstract
 The audiobook dataset is a collection of data from the Audiobook app and each
