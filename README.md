@@ -1,13 +1,15 @@
 # This is the repo for learning and discovering Data Science, NLP and Machine Learning.
 
-## Audiobooks - Abstract
-The audiobook dataset is a collection of data from the Audiobook app and each
-record in the dataset was generated when a customer made at least one purchase.
 
-The main goal of this research is to train a machine learning model by using a
+## Audiobooks - Abstract
+- The audiobook dataset is a collection of data from the Audiobook app and each
+record in the dataset was generated when a customer made at least one purchase.
+- The main goal of this research is to train a machine learning model by using a
 different approach to generate a good model to predict if a customer will make a
 purchase again. This model is useful for identifying potential customers who are interested in buying more products. The
 maximum accuracy I have reached against the test set is 95.09%.
+- Paper: [Download the audiobooks paper](https://github.com/hung-p/ml-playground/raw/main/audiobooks/audiobooks_report_paper.pdf) 
+- Ipynb: [Download the audiobooks .ipynb file](https://github.com/hung-p/ml-playground/blob/main/audiobooks/audiobooks.ipynb) 
 
 ## Malaria - Abstract
 Malaria Dataset is one of the TensorFlow datasets which is taken from the
