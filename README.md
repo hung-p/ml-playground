@@ -18,7 +18,7 @@ Parasite is a dangerous disease that is transmitted by the bite of female Anophe
 mosquitoes. This disease is curable if it is detected and treated promptly.
 In this experiment, I will use the dataset of 27,558 records to train the dataset by
 using a convolutional neural network. After that, I will try different methods and
-determine the best approach to the model.
+determine the best approach to the model.\n
 ● Dataset name: ‘malaria’
 ● Description: The Malaria dataset contains a total of 27,558 cell images with equal
 instances of parasitized and uninfected cells from the thin blood smear slide
