@@ -26,5 +26,5 @@ instances of parasitized and uninfected cells from the thin blood smear slide
 images of segmented cells
 ● Dataset size=317.62 MiB
 ```
-
-
+- Paper: [Download the malaria paper](https://github.com/hung-p/ml-playground/raw/main/audiobooks/malaria_report_paper.pdf) 
+- Ipynb: [Download the malaria .ipynb file](https://github.com/hung-p/ml-playground/blob/main/malaria/malaria-classification.ipynb) 
